@@ -54,7 +54,7 @@ Web Development Intern – SkillCraft Technology
 
 📧 Email:kabhishek02030@gmail.com
 
-🔗 GitHub: https:https://github.com/Nitish-Kumar-62/SCT_WD_1
+🔗 GitHub: https:https://github.com/abhishekkumar02030/SCT_WD_1
 
 🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
 
