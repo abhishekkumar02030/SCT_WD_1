@@ -58,4 +58,4 @@ Web Development Intern – SkillCraft Technology
 
 🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
 
-💼 LinkedIn; https://www.linkedin.com/in/nitish-kumar-0201n2005/
+💼 LinkedIn; https://www.linkedin.abhishek-kumar-7937a53b0
