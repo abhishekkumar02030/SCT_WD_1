@@ -30,8 +30,7 @@ CSS3
 JavaScript (Vanilla JS)
 
 # 🌐 Live Project
-👉 GitHub Pages Link:https://github.com/Nitish-Kumar-62/SCT_WD_1
-
+👉 GitHub Pages Link:https://abhishekkumar02030.github.io/SCT_WD_1/
 # 📂 Project Structure
          SCT_WD_1
 
@@ -56,6 +55,5 @@ Web Development Intern – SkillCraft Technology
 
 🔗 GitHub: https:https://github.com/abhishekkumar02030/SCT_WD_1
 
-🌐 Live Project:https://nitish-kumar-62.github.io/SCT_WD_1/
-
+🌐 Live Project:https://abhishekkumar02030.github.io/SCT_WD_1/
 💼 LinkedIn; https://www.linkedin.abhishek-kumar-7937a53b0
